@@ -1,0 +1,12 @@
+[
+  { "id": 1, "text": "Learned about React hooks and how useEffect works with dependencies." },
+  { "id": 2, "text": "Understanding TypeScript generics and how to use them in functions." },
+  { "id": 3, "text": "Explored Express middleware and error handling patterns." },
+  { "id": 4, "text": "Practiced Zod schema validation for API inputs." },
+  { "id": 5, "text": "Built a simple REST API with Node.js and Express." },
+  { "id": 6, "text": "Learned about Git branching strategies and merge conflicts." },
+  { "id": 7, "text": "Studied the difference between SQL and NoSQL databases." },
+  { "id": 8, "text": "Implemented JWT authentication in a Node.js application." },
+  { "id": 9, "text": "Learned how to write unit tests using Vitest and mocking." },
+  { "id": 10, "text": "Explored Docker containers and how to write a Dockerfile." }
+]
